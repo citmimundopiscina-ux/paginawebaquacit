@@ -1,0 +1,5 @@
+AQUA CIT PISCINAS - Sitio web actualizado
+Abrir index.html para visualizar. Para publicar en GitHub Pages, subir todos los archivos y la carpeta imagenes.
+Los botones Comprar abren enlaces TUU individuales. Consultar stock y entrega antes de pagar.
+El formulario de construcción/revestimiento abre el programa de correo con el mensaje preparado; NO realiza envío automático. Para eso hay que configurar un servicio de formularios.
+WhatsApp de construcción/reparación pendiente: no se ha inventado ni usado el de limpieza.

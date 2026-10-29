@@ -1,0 +1,1 @@
+Fotografías originales del usuario incorporadas en las tarjetas de los 8 productos. Imágenes cuadradas derivadas de las originales en imagenes/*-cuadrada.jpg. app.js validado. Abrir index.html o productos.html.

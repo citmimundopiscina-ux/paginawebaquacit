@@ -1,0 +1,9 @@
+AQUA CIT PISCINAS Y SERVICIOS — RENOVACIÓN
+
+1. Subir TODO el contenido de esta carpeta a la RAÍZ del repositorio GitHub Pages (index.html debe quedar en la raíz, no dentro de una subcarpeta).
+2. El formulario cotiza.html utiliza FormSubmit AJAX y envía a citmimundopiscina@gmail.com. Se requiere verificar el correo de activación que envía FormSubmit tras el primer envío. Probar después de activar.
+3. IMPORTANTE: inventario.json y la copia incorporada a app.js son existencias INICIALES y ESTÁTICAS. Los pagos TUU no están conectados. La página NO puede descontar ventas confirmadas ni evitar ventas por enlaces TUU directos. Actualizar manualmente o integrar backend + confirmación de pagos antes de anunciar inventario en tiempo real.
+4. Los productos sin cantidad confirmada muestran 'Disponibilidad por confirmar'; no se inventaron existencias. Los productos nuevos sin foto confirmada muestran 'Fotografía próximamente'.
+5. Fotos reales de antes y después: confirmar que sean del mismo trabajo y contar con permiso de publicación.
+6. Para cambiar el inventario visual, editar los campos stock de los productos en app.js (el JSON es copia de referencia; no se sincroniza automáticamente).
+7. Enlaces TUU antiguos conservados. Productos nuevos usan WhatsApp +56926119630.

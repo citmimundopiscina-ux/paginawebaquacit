@@ -1,0 +1,285 @@
+[
+  {
+    "id": "kitmantencion",
+    "name": "Kit de Limpieza y Mantención de Piscinas",
+    "image": "imagenes/kitpiscina.png",
+    "url": "https://www.tuu.cl/kitmantencionpiscina",
+    "price": 24000,
+    "oldPrice": 37870,
+    "category": "piscinas",
+    "stock": 2,
+    "images": [
+      "imagenes/kitpiscina.png"
+    ]
+  },
+  {
+    "id": "sube",
+    "name": "Sube pH",
+    "image": "imagenes/sube-cuadrada.jpg",
+    "url": "https://www.tuu.cl/aquacit-subeph",
+    "price": 2990,
+    "oldPrice": 3500,
+    "category": "piscinas",
+    "stock": 6,
+    "images": [
+      "imagenes/sube-cuadrada.jpg",
+      "imagenes/sube.jpeg"
+    ]
+  },
+  {
+    "id": "baja",
+    "name": "Baja pH",
+    "image": "imagenes/baja-ph.jpg",
+    "url": "https://www.tuu.cl/aquacit-bajaph",
+    "price": 2500,
+    "oldPrice": 3000,
+    "category": "piscinas",
+    "stock": 6,
+    "images": [
+      "imagenes/baja-ph.jpg"
+    ]
+  },
+  {
+    "id": "promocion",
+    "name": "Promoción Cloro Triple Acción – 3 kilos (3 x 1 kg)",
+    "image": "imagenes/promocion-cuadrada.jpg",
+    "url": "https://www.tuu.cl/promocionclorotripleaccion",
+    "price": 12000,
+    "oldPrice": 14400,
+    "category": "piscinas",
+    "stock": 7,
+    "images": [
+      "imagenes/promocion-cuadrada.jpg",
+      "imagenes/promocion.jpeg"
+    ]
+  },
+  {
+    "id": "cloro10",
+    "name": "Cloro Líquido para Piscina – 10 litros",
+    "image": "imagenes/cloro-liquido-yukon-10l.jpeg",
+    "url": "https://www.tuu.cl/cloroliquido10ltro",
+    "price": 7000,
+    "oldPrice": null,
+    "category": "piscinas",
+    "stock": 6,
+    "images": [
+      "imagenes/cloro-liquido-yukon-10l.jpeg"
+    ]
+  },
+  {
+    "id": "cepillo",
+    "name": "Cepillo para piscina",
+    "image": "imagenes/cepillo-cuadrada.jpg",
+    "url": "https://www.tuu.cl/cepillo",
+    "price": 5100,
+    "oldPrice": null,
+    "category": "piscinas",
+    "stock": 3,
+    "images": [
+      "imagenes/cepillo-cuadrada.jpg",
+      "imagenes/cepillo.jpeg"
+    ]
+  },
+  {
+    "id": "malla",
+    "name": "Malla recogedora",
+    "image": "imagenes/malla-cuadrada.jpg",
+    "url": "https://www.tuu.cl/mallarecogedora",
+    "price": 4500,
+    "oldPrice": null,
+    "category": "piscinas",
+    "stock": 3,
+    "images": [
+      "imagenes/malla-cuadrada.jpg",
+      "imagenes/malla.jpeg"
+    ]
+  },
+  {
+    "id": "tester",
+    "name": "Kit tester pH y cloro",
+    "image": "imagenes/tester-cuadrada.jpg",
+    "url": "https://www.tuu.cl/kittesterphycloro",
+    "price": 4600,
+    "oldPrice": null,
+    "category": "piscinas",
+    "stock": 6,
+    "images": [
+      "imagenes/tester-cuadrada.jpg",
+      "imagenes/tester.jpeg"
+    ]
+  },
+  {
+    "id": "decantador",
+    "name": "Decantador Yukón",
+    "image": "imagenes/decantador-cuadrada.jpg",
+    "url": "https://www.tuu.cl/decantadoryukon",
+    "price": 2600,
+    "oldPrice": null,
+    "category": "piscinas",
+    "stock": 5,
+    "images": [
+      "imagenes/decantador-cuadrada.jpg",
+      "imagenes/decantador.jpeg"
+    ]
+  },
+  {
+    "id": "tabletas",
+    "name": "Cloro en Tabletas – 1 kg",
+    "image": "imagenes/tabletas-cuadrada.jpg",
+    "url": "https://www.tuu.cl/clorotableta",
+    "price": 4800,
+    "oldPrice": null,
+    "category": "piscinas",
+    "stock": 60,
+    "images": [
+      "imagenes/tabletas-cuadrada.jpg",
+      "imagenes/tabletas.jpeg"
+    ]
+  },
+  {
+    "id": "dosificador",
+    "name": "Dosificador flotante con termómetro",
+    "image": "imagenes/dosificador-cuadrada.jpg",
+    "url": "https://www.tuu.cl/dosificadorflotantecontermometro",
+    "price": 5800,
+    "oldPrice": 6900,
+    "category": "piscinas",
+    "stock": 3,
+    "images": [
+      "imagenes/dosificador-cuadrada.jpg",
+      "imagenes/dosificador.jpeg"
+    ]
+  },
+  {
+    "id": "quix",
+    "name": "Lavalozas Quix 480 ml",
+    "price": 1500,
+    "oldPrice": null,
+    "category": "hogar",
+    "stock": 15,
+    "images": [
+      "imagenes/IMG_3680.jpeg"
+    ],
+    "url": "https://www.tuu.cl/quiz480ml",
+    "image": "imagenes/IMG_3680.jpeg"
+  },
+  {
+    "id": "limpiafondo",
+    "name": "Limpiafondo de Aluminio con Cepillo",
+    "price": 30000,
+    "oldPrice": null,
+    "category": "piscinas",
+    "stock": 3,
+    "images": [
+      "imagenes/IMG_3678.webp",
+      "imagenes/IMG_3677.webp",
+      "imagenes/IMG_3676.webp"
+    ],
+    "url": "https://www.tuu.cl/limpiafondovulcanoconcepillo",
+    "image": "imagenes/IMG_3678.webp"
+  },
+  {
+    "id": "pertiga",
+    "name": "Pértiga Telescópica de Aluminio 4,8 m",
+    "price": 24000,
+    "oldPrice": null,
+    "category": "piscinas",
+    "stock": 2,
+    "images": [
+      "imagenes/pertigas.png"
+    ],
+    "url": "https://www.tuu.cl/perpigas",
+    "image": "imagenes/pertigas.png"
+  },
+  {
+    "id": "bomba",
+    "name": "Bomba Vulcano – 1 HP",
+    "price": 180000,
+    "oldPrice": null,
+    "category": "equipos",
+    "stock": 3,
+    "images": [
+      "imagenes/IMG_3675_2_.jpeg"
+    ],
+    "url": null,
+    "image": "imagenes/IMG_3675_2_.jpeg"
+  },
+  {
+    "id": "vc50",
+    "name": "Filtro VC50",
+    "price": 100000,
+    "oldPrice": null,
+    "category": "equipos",
+    "stock": 3,
+    "images": [
+      "imagenes/IMG_3674_2_.jpeg"
+    ],
+    "url": null,
+    "image": "imagenes/IMG_3674_2_.jpeg"
+  },
+  {
+    "id": "bs100",
+    "name": "Filtro VC100",
+    "price": 160000,
+    "oldPrice": null,
+    "category": "equipos",
+    "stock": 3,
+    "images": [
+      "imagenes/IMG_3684.webp"
+    ],
+    "url": null,
+    "image": "imagenes/IMG_3684.webp"
+  },
+  {
+    "id": "manguera10",
+    "name": "Manguera Limpiafondo para Piscina – 10 metros",
+    "price": 28990,
+    "oldPrice": 39990,
+    "stock": 1,
+    "category": "piscinas",
+    "url": "https://www.tuu.cl/manguera10mpiscina",
+    "images": [
+      "imagenes/IMG_3683.webp"
+    ],
+    "image": "imagenes/IMG_3683.webp"
+  },
+  {
+    "id": "limpiadorcrema",
+    "name": "Limpiador en Crema – 750 gramos",
+    "price": 1790,
+    "oldPrice": 2290,
+    "stock": 12,
+    "category": "hogar",
+    "url": "https://www.tuu.cl/limpiadorcrema",
+    "images": [
+      "imagenes/IMG_3679.jpeg"
+    ],
+    "image": "imagenes/IMG_3679.jpeg"
+  },
+  {
+    "id": "jabonarom",
+    "name": "Jabón Líquido Arom Frutos del Sur – 750 ml",
+    "price": 1500,
+    "oldPrice": 3090,
+    "stock": 5,
+    "category": "hogar",
+    "url": "https://www.tuu.cl/jabonliquidoarom",
+    "images": [
+      "imagenes/IMG_3681.webp"
+    ],
+    "image": "imagenes/IMG_3681.webp"
+  },
+  {
+    "id": "clorogranulado",
+    "name": "Cloro Granulado – 1 kilo",
+    "price": 4990,
+    "oldPrice": null,
+    "stock": 4,
+    "category": "piscinas",
+    "url": "https://www.tuu.cl/clorogranulado",
+    "images": [
+      "imagenes/cloro-granulado-envase-blanco.png"
+    ],
+    "image": "imagenes/cloro-granulado-envase-blanco.png"
+  }
+]

@@ -1,0 +1,12 @@
+AQUA CIT — ENTREGA DE CATÁLOGO 29-10-2026
+
+Este ZIP contiene la página y los 23 productos, stocks y precios confirmados.
+Subir TODOS los archivos y la carpeta imagenes/ a la raíz del repositorio de GitHub Pages.
+
+PENDIENTES IMPORTANTES:
+- Las fotografías de bomba Vulcano, filtro VC50 y BS100 fueron mostradas como imágenes de búsqueda, pero no se dispone de sus archivos descargados. Se dejaron sus fichas con espacio de fotografía pendiente; NO se han sustituido por fotos falsas.
+- Faltan fotos propias disponibles de manguera, limpiador crema, jabón Arom, pértiga, limpiafondo y Quix.
+- Los productos sin enlace TUU permiten consulta por WhatsApp.
+- El stock mostrado es una cantidad inicial y NO se descuenta automáticamente al pagar con TUU. Para hacerlo se necesita una integración de pago y backend.
+- FormSubmit requiere activar el email receptor y probar el formulario.
+- Antes de publicar, revisar precios, enlaces y fotografías.
